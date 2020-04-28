@@ -1,0 +1,21 @@
+{
+  "name": "deezer-playing-notifications",
+  "version": "0.1.2",
+  "description": "Reverse ingeneering of deezer real-time websocket messaging api to get played tracks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node examples/logToConsole"
+  },
+  "homepage": "https://github.com/nSimonFR/deezer-playing-notifications#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nSimonFR/deezer-playing-notifications.git"
+  },
+  "author": "nSimonFR",
+  "license": "MIT",
+  "dependencies": {
+    "@xmpp/client": "^0.11.1",
+    "@xmpp/debug": "^0.11.0",
+    "axios": "^0.19.2"
+  }
+}
