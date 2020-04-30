@@ -2,7 +2,7 @@
 
 # deezer-playing-notifications
 
-Reverse ingeneering of deezer real-time websocket messaging api to get played tracks.
+Reverse engineering of deezer real-time websocket messaging api to get played tracks.
 
 This allows to make a small [lastfm](https://last.fm/)-like self-hosted service.
 
